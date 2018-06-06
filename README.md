@@ -12,4 +12,4 @@ apm install tofino-ui
 ```
 Alternatively, you can open up [Packages>Settings View>Install Packages/Themes] in Atom and search for tofino-ui
 
-*For the best experience, make sure to install the  [syntax theme](https://github.com/roweba/tofino-syntax) as well.*
+*For the best experience, make sure to install the  [UI theme](https://github.com/roweba/tofino-ui) as well.*
