@@ -1,8 +1,8 @@
 @import "syntax-variables";
 
 atom-text-editor {
-  background-color: @sun;
-  color: @rock;
+  background-color: @air;
+  color: @night;
 
   .wrap-guide {
     background-color: @dark-gray;
@@ -17,7 +17,7 @@ atom-text-editor {
   }
 
   .gutter {
-    background-color: @sun;
+    background-color: @air;
     color: @sand;
 
     .line-number {
@@ -103,10 +103,10 @@ atom-text-editor {
 }
 
 .syntax--variable {
-  color: @red;
+  color: @pebble;
 
   &.syntax--interpolation {
-    color: darken(@red, 10%);
+    color: darken(@pebble, 10%);
   }
 
   &.syntax--parameter.syntax--function {
@@ -115,7 +115,7 @@ atom-text-editor {
 }
 
 .syntax--invalid.syntax--illegal {
-  background-color: @red;
+  background-color: @pebble;
   color: @syntax-background-color;
 }
 
@@ -132,7 +132,7 @@ atom-text-editor {
   }
 
   &.syntax--other.syntax--link {
-    color: @red;
+    color: @pebble;
   }
 }
 
@@ -166,7 +166,7 @@ atom-text-editor {
   }
 
   &.syntax--section.syntax--embedded {
-    color: darken(@red, 10%);
+    color: darken(@pebble, 10%);
   }
 
 }
@@ -206,7 +206,7 @@ atom-text-editor {
   }
 
   &.syntax--name.syntax--tag {
-    color: @red;
+    color: @pebble;
     text-decoration: underline;
   }
 
@@ -257,7 +257,7 @@ atom-text-editor {
   }
 
   &.syntax--deleted {
-    color: @red;
+    color: @pebble;
   }
 
   &.syntax--italic {
@@ -274,7 +274,7 @@ atom-text-editor {
   }
 
   &.syntax--list {
-    color: @red;
+    color: @pebble;
   }
 
   &.syntax--quote {
