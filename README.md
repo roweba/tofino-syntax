@@ -8,7 +8,7 @@ Tofino is an Atom theme inspired by a rainy day in Tofino.
 
 Open up your console and type
 ```
-apm install tofino-ui
+apm install tofino-syntax
 ```
 Alternatively, you can open up [Packages>Settings View>Install Packages/Themes] in Atom and search for tofino-ui
 
