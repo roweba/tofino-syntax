@@ -2,12 +2,14 @@
   "name": "tofino-syntax",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Inspired by a rainy day in Tofino.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "tofino",
+    "light"
   ],
-  "repository": "https://github.com/atom/tofino-syntax",
+  "repository": "https://github.com/roweba/tofino-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
